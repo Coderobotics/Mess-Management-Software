@@ -3,7 +3,7 @@
 
 Mess Management System is designed for better interaction between Management, Staff and Customers. Mess Mgmt Software handles all the requirements for easy Mess Management. Mess Software has following key features such Administrator, Employee Details, Suppliers, Category, Bank Setup, VAT Setup, Units Setup, Stock Setup, Items Setup, Expense Type, DB Backup, Restore, Daily Expense, Supplier, Purchase Order, Payment Details, Return Purchase, Kitchen Stock, POS, Cards, Membership Details, Card Master and Reports. This software will help the Mess to structuralize the activities and maintain data transparency where needed and properly store data for regular operations and future analysis. It is developed in C#.Net with MS-Access.
 
-<img src="https://www.aspscriptsonline.com/wp-content/uploads/2016/06/mess-21.png">
+<img src="https://www.aspscriptsonline.com/frontend/assets/templates/1738623199_6bece82f7c55282e2317.webp">
 
 <b>Mess Management System has the following key features:</b>
 
@@ -43,5 +43,15 @@ Mess Management System is designed for better interaction between Management, St
 <li>Member Avail Credit</li>
 <li>Trial Balance</li>
 </ul>
-<b>More details and download link:</b><br>
-<b>https://www.aspscriptsonline.com/product/mess-management/</b>
+
+More details and download script
+https://www.aspscriptsonline.com/product/mess-management-software
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
